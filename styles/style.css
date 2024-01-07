@@ -1,8 +1,0 @@
-div {
-    background-color: white;
-    box-shadow: 1px 1px 1px 1px;
-}
-
-div * {
-    padding: 1em;
-}
